@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Name: fr/filiggrane/nutrition
+Specification-Title: Classes Utilitaires pour le calcul nutritionnel
+Specification-Version: 1.0
+Specification-Vendor: Filiggrane
+Implementation-Title: fr.filiggrane.nutrition
+Implementation-Version: 1
+Implementation-Vendor: Filiggrane
